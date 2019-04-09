@@ -1,6 +1,6 @@
 package com.zeng.mvp.http;
 
-import com.zeng.mvp.Constant.Api;
+import com.zeng.mvp.constant.Api;
 
 import java.util.concurrent.TimeUnit;
 
